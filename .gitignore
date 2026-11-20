@@ -1,0 +1,5 @@
+.yousi_secret
+.yousi_setup_token
+*.db
+app_backup*
+__pycache__/
